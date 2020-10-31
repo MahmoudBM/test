@@ -1,0 +1,6 @@
+projectKey=tn.esprit:avec-maven
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/tn.esprit:avec-maven
+ceTaskId=AXV_24OrECc-QIylV8EO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXV_24OrECc-QIylV8EO
